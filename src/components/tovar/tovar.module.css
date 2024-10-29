@@ -1,0 +1,47 @@
+.nizh{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly
+
+}
+
+.zagalov{
+    width: 460px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.tsena{
+    color: #0009ea9c;
+    font-size: 30px;
+
+}
+
+
+
+.button{
+    background-color: #0009ea99;
+    color: white;
+    width: 200px;
+    height: 43px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.Tovars{
+    margin-top: 40px;
+}
+
+.imagecart{
+    width: 420px;
+    height: 344px;
+}
+
+.Textik{
+    color: white;
+}
+
+.button a{
+    color: white;
+}
+
